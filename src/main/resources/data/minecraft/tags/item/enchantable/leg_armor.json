@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "enforcedmetals:steel_leggings",
+    "enforcedmetals:copper_leggings",
+    "enforcedmetals:platinum_leggings",
+    "enforcedmetals:rose_gold_leggings",
+    "enforcedmetals:astrite_leggings"
+  ]
+}

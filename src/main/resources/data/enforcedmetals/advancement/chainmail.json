@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "enforcedmetals:chainmail_boots",
+        "recipe": "enforcedmetals:chainmail_chestplate",
+        "recipe": "enforcedmetals:chain_helmet",
+        "recipe": "enforcedmetals:chain_leggings"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_log"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "enforcedmetals:chainmail_boots",
+      "enforcedmetals:chainmail_chestplate",
+      "enforcedmetals:chainmail_helmet",
+      "enforcedmetals:chainmail_leggings"
+    ]
+  }
+}

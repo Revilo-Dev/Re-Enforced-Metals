@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": { "S": { "item": "enforcedmetals:steel_ingot" } },
+  "pattern": ["SSS", "SSS"],
+  "result": { "count": 16, "id": "enforcedmetals:steel_bars" }
+}

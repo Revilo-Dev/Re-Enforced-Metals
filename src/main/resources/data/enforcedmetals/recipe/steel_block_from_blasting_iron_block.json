@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": {
+    "item": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "enforcedmetals:steel_block"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

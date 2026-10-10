@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": { "item": "enforcedmetals:astrite_upgrade" },
+  "base": { "tag": "enforcedmetals:astrite_upgrade_bases/helmet" },
+  "addition": { "item": "enforcedmetals:astrite_ingot" },
+  "result": { "id": "enforcedmetals:astrite_helmet", "count": 1 }
+}

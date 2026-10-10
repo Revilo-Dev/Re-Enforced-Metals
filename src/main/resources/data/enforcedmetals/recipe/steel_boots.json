@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "enforcedmetals:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "enforcedmetals:steel_boots",
+    "count": 1
+  }
+}

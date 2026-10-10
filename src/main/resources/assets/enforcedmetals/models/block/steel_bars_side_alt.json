@@ -1,0 +1,5 @@
+{
+  "render_type": "minecraft:cutout",
+  "parent": "minecraft:block/iron_bars_side_alt",
+  "textures": { "particle": "enforcedmetals:block/steel_bars", "bars": "enforcedmetals:block/steel_bars", "edge": "enforcedmetals:block/steel_bars" }
+}

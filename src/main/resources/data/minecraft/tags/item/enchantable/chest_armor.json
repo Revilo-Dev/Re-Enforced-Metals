@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "enforcedmetals:steel_chestplate",
+    "enforcedmetals:copper_chestplate",
+    "enforcedmetals:platinum_chestplate",
+    "enforcedmetals:rose_gold_chestplate",
+    "enforcedmetals:astrite_chestplate"
+  ]
+}

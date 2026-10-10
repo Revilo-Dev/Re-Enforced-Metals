@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "enforcedmetals:rose_gold_pickaxe",
+    "enforcedmetals:rose_gold_axe",
+    "enforcedmetals:rose_gold_shovel",
+    "enforcedmetals:rose_gold_hoe",
+    "enforcedmetals:astrite_pickaxe",
+    "enforcedmetals:astrite_axe",
+    "enforcedmetals:astrite_shovel",
+    "enforcedmetals:astrite_hoe"
+  ]
+}

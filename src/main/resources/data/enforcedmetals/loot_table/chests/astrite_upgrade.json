@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:item",
+          "name": "enforcedmetals:astrite_upgrade"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "enforcedmetals:chests/astrite_upgrade"
+}

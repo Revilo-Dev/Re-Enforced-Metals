@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "enforcedmetals:astrite_block" }
+  ],
+  "result": {
+    "id": "enforcedmetals:astrite_ingot",
+    "count": 9
+  }
+}

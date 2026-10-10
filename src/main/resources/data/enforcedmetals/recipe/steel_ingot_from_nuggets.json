@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": { "N": { "item": "enforcedmetals:steel_nugget" } },
+  "pattern": ["NNN", "NNN", "NNN"],
+  "result": { "count": 1, "id": "enforcedmetals:steel_ingot" }
+}

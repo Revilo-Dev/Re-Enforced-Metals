@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "enforcedmetals:ore_platinum",
+    "enforcedmetals:ore_platinum_buried"
+  ],
+  "step": "underground_ores"
+}

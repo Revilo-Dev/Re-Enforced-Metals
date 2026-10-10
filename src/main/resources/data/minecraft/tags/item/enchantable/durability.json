@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "#enforcedmetals:rose_gold_gear",
+    "enforcedmetals:steel_helmet",
+    "enforcedmetals:steel_chestplate",
+    "enforcedmetals:steel_leggings",
+    "enforcedmetals:steel_boots",
+    "enforcedmetals:copper_helmet",
+    "enforcedmetals:copper_chestplate",
+    "enforcedmetals:copper_leggings",
+    "enforcedmetals:copper_boots",
+    "enforcedmetals:platinum_helmet",
+    "enforcedmetals:platinum_chestplate",
+    "enforcedmetals:platinum_leggings",
+    "enforcedmetals:platinum_boots",
+    "enforcedmetals:astrite_helmet",
+    "enforcedmetals:astrite_chestplate",
+    "enforcedmetals:astrite_leggings",
+    "enforcedmetals:astrite_boots",
+    "enforcedmetals:astrite_sword",
+    "enforcedmetals:astrite_pickaxe",
+    "enforcedmetals:astrite_axe",
+    "enforcedmetals:astrite_shovel",
+    "enforcedmetals:astrite_hoe"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:story/iron_tools",
+  "criteria": {
+    "platinum_pickaxe": {
+      "conditions": { "items": [ { "items": "enforcedmetals:platinum_pickaxe" } ] },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": { "translate": "advancements.story.platinum_pickaxe.description" },
+    "icon": { "count": 1, "id": "enforcedmetals:platinum_pickaxe" },
+    "title": { "translate": "advancements.story.platinum_pickaxe.title" }
+  },
+  "requirements": [ [ "platinum_pickaxe" ] ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "enforcedmetals:rose_gold"
+    }
+  },
+  "result": {
+    "id": "enforcedmetals:rose_gold_leggings",
+    "count": 1
+  }
+}

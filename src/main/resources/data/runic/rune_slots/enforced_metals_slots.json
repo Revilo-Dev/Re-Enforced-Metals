@@ -1,0 +1,33 @@
+{
+  "items": {
+    "enforcedmetals:copper_sword": 2,
+    "enforcedmetals:copper_pickaxe": 2,
+    "enforcedmetals:copper_axe": 2,
+    "enforcedmetals:copper_shovel": 2,
+    "enforcedmetals:copper_hoe": 2,
+
+    "enforcedmetals:steel_sword": 3,
+    "enforcedmetals:steel_pickaxe": 3,
+    "enforcedmetals:steel_axe": 3,
+    "enforcedmetals:steel_shovel": 3,
+    "enforcedmetals:steel_hoe": 3,
+
+    "enforcedmetals:rose_gold_sword": 5,
+    "enforcedmetals:rose_gold_pickaxe": 5,
+    "enforcedmetals:rose_gold_axe": 5,
+    "enforcedmetals:rose_gold_shovel": 5,
+    "enforcedmetals:rose_gold_hoe": 5,
+
+    "enforcedmetals:platinum_sword": 4,
+    "enforcedmetals:platinum_pickaxe": 4,
+    "enforcedmetals:platinum_axe": 4,
+    "enforcedmetals:platinum_shovel": 4,
+    "enforcedmetals:platinum_hoe": 4,
+
+    "enforcedmetals:astrite_sword": 8,
+    "enforcedmetals:astrite_pickaxe": 8,
+    "enforcedmetals:astrite_axe": 8,
+    "enforcedmetals:astrite_shovel": 8,
+    "enforcedmetals:astrite_hoe": 8
+  }
+}

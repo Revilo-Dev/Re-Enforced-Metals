@@ -1,8 +1,13 @@
 {
   "replace": false,
   "values": [
-    "supersteel:steel_block",
-    "supersteel:platinum_ore",
-    "supersteel:deepslate_platinum_ore"
+    "enforcedmetals:steel_block",
+    "enforcedmetals:steel_bars",
+    "enforcedmetals:rose_gold_block",
+    "enforcedmetals:platinum_block",
+    "enforcedmetals:platinum_ore",
+    "enforcedmetals:deepslate_platinum_ore",
+    "enforcedmetals:astrite_block",
+    "enforcedmetals:astrite_ore"
   ]
 }

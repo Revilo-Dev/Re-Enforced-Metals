@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "enforcedmetals:astrite_scrap" },
+    { "item": "minecraft:netherite_ingot" }
+  ],
+  "result": {
+    "id": "enforcedmetals:astrite_ingot",
+    "count": 1
+  }
+}

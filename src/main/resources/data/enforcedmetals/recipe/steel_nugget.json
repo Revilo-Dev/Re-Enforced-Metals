@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [ { "item": "enforcedmetals:steel_ingot" } ],
+  "result": { "count": 9, "id": "enforcedmetals:steel_nugget" }
+}

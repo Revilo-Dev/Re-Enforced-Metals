@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "enforcedmetals:steel_helmet",
+    "enforcedmetals:copper_helmet",
+    "enforcedmetals:platinum_helmet",
+    "enforcedmetals:rose_gold_helmet",
+    "enforcedmetals:astrite_helmet"
+  ]
+}

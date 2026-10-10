@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:end/root",
+  "criteria": {
+    "astrite": {
+      "conditions": { "items": [ { "items": "enforcedmetals:astrite_ingot" } ] },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": { "translate": "advancements.end.obtain_astrite.description" },
+    "frame": "challenge",
+    "icon": { "count": 1, "id": "enforcedmetals:astrite_ingot" },
+    "title": { "translate": "advancements.end.obtain_astrite.title" }
+  },
+  "requirements": [ [ "astrite" ] ]
+}

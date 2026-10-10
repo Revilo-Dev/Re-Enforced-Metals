@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "enforcedmetals:steel_boots",
+    "enforcedmetals:copper_boots",
+    "enforcedmetals:platinum_boots",
+    "enforcedmetals:rose_gold_boots",
+    "enforcedmetals:astrite_boots"
+  ]
+}
