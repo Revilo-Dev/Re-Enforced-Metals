@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "supersteel:steel_block",
+    "supersteel:platinum_ore",
+    "supersteel:deepslate_platinum_ore"
+  ]
+}

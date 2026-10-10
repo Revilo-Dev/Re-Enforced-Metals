@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "supersteel:chainmail_boots",
+        "recipe": "supersteel:chainmail_chestplate",
+        "recipe": "supersteel:chain_helmet",
+        "recipe": "supersteel:chain_leggings"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_log"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "supersteel:chainmail_boots",
+      "supersteel:chainmail_chestplate",
+      "supersteel:chainmail_helmet",
+      "supersteel:chainmail_leggings"
+    ]
+  }
+}

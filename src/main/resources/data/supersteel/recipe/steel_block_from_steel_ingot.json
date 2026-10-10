@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "supersteel:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "supersteel:steel_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "supersteel:platinum_ingot"
+    }
+  },
+  "result": {
+    "id": "supersteel:platinum_boots",
+    "count": 1
+  }
+}

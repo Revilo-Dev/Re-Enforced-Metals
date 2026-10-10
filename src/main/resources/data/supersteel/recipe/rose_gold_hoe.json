@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    " S",
+    " S"
+  ],
+  "key": {
+    "#": {
+      "item": "supersteel:rose_gold"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "supersteel:rose_gold_hoe",
+    "count": 1
+  }
+}

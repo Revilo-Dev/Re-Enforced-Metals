@@ -1,0 +1,57 @@
+{
+  "itemGroup.supersteel.steel": "Steel",
+  "block.supersteel.steel_block": "Steel Block",
+  "block.supersteel.rose_gold_block": "Rose Gold Block",
+  "block.supersteel.platinum_block": "Platinum Block",
+
+
+  "block.supersteel.platinum_ore": "Platinum Ore",
+  "block.supersteel.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "item.supersteel.raw_platinum": "Raw Platinum",
+  "item.supersteel.platinum_ingot": "Platinum Ingot",
+  "item.supersteel.steel_ingot": "Steel Ingot",
+  "item.supersteel.rose_gold": "Rose Gold",
+
+  "item.supersteel.steel_sword": "Steel Sword",
+  "item.supersteel.steel_pickaxe": "Steel Pickaxe",
+  "item.supersteel.steel_axe": "Steel Axe",
+  "item.supersteel.steel_shovel": "Steel Shovel",
+  "item.supersteel.steel_hoe": "Steel Hoe",
+
+  "item.supersteel.copper_sword": "Copper Sword",
+  "item.supersteel.copper_pickaxe": "Copper Pickaxe",
+  "item.supersteel.copper_axe": "Copper Axe",
+  "item.supersteel.copper_shovel": "Copper Shovel",
+  "item.supersteel.copper_hoe": "Copper Hoe",
+
+  "item.supersteel.platinum_sword": "Platinum Sword",
+  "item.supersteel.platinum_pickaxe": "Platinum Pickaxe",
+  "item.supersteel.platinum_axe": "Platinum Axe",
+  "item.supersteel.platinum_shovel": "Platinum Shovel",
+  "item.supersteel.platinum_hoe": "Platinum Hoe",
+  "item.supersteel.rose_gold_sword": "Rose Gold Sword",
+  "item.supersteel.rose_gold_pickaxe": "Rose Gold Pickaxe",
+  "item.supersteel.rose_gold_axe": "Rose Gold Axe",
+  "item.supersteel.rose_gold_shovel": "Rose Gold Shovel",
+  "item.supersteel.rose_gold_hoe": "Rose Gold Hoe",
+
+  "item.supersteel.steel_helmet": "Steel Helmet",
+  "item.supersteel.steel_chestplate": "Steel Chestplate",
+  "item.supersteel.steel_leggings": "Steel Leggings",
+  "item.supersteel.steel_boots": "Steel Boots",
+
+  "item.supersteel.copper_helmet": "Copper Helmet",
+  "item.supersteel.copper_chestplate": "Copper Chestplate",
+  "item.supersteel.copper_leggings": "Copper Leggings",
+  "item.supersteel.copper_boots": "Copper Boots",
+
+  "item.supersteel.platinum_helmet": "Platinum Helmet",
+  "item.supersteel.platinum_chestplate": "Platinum Chestplate",
+  "item.supersteel.platinum_leggings": "Platinum Leggings",
+  "item.supersteel.platinum_boots": "Platinum Boots",
+
+  "item.supersteel.rose_gold_helmet": "Rose Gold Helmet",
+  "item.supersteel.rose_gold_chestplate": "Rose Gold Chestplate",
+  "item.supersteel.rose_gold_leggings": "Rose Gold Leggings",
+  "item.supersteel.rose_gold_boots": "Rose Gold Boots"
+}
